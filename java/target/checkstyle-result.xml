@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.45">
-<file name="C:\Users\munkh\f.csa311.25b-lab02\java\src\main\java\edu\cmu\cs\cs214\lab02\Main.java">
-</file>
-<file name="C:\Users\munkh\f.csa311.25b-lab02\java\src\main\java\edu\cmu\cs\cs214\lab02\Renderer.java">
-</file>
 <file name="C:\Users\munkh\f.csa311.25b-lab02\java\src\main\java\edu\cmu\cs\cs214\lab02\shapes\Circle.java">
-</file>
-<file name="C:\Users\munkh\f.csa311.25b-lab02\java\src\main\java\edu\cmu\cs\cs214\lab02\shapes\Rectangle.java">
-</file>
-<file name="C:\Users\munkh\f.csa311.25b-lab02\java\src\main\java\edu\cmu\cs\cs214\lab02\shapes\Shape.java">
-</file>
-<file name="C:\Users\munkh\f.csa311.25b-lab02\java\src\main\java\edu\cmu\cs\cs214\lab02\shapes\Square.java">
 </file>
 </checkstyle>
